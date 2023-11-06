@@ -1,0 +1,62 @@
+# cangku
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <title>个人简历</title>
+<body style="height:1300px; width: 1000px" >
+<h1><span class="style2">个人简历 </span></h1>
+<h2 style="background-color: #CCCC00">基本信息</h2>
+<table class="style4">
+  <tr>
+    <td class="style6">
+      姓名：陶璐璐</td>
+    <td class="style6">
+      出生年月：2004.10</td>
+    <td class="style3" rowspan="5">
+      <img alt="" src="个人简历头像.jpg"
+           style="height: 150px; width: 150px; text-align: justify;" /></td>
+  </tr>
+  <tr>
+    <td class="style6">
+      民族：汉</td>
+    <td class="style6">
+      身高：166cm</td>
+  </tr>
+  <tr>
+    <td class="style6">
+      电话：18711241021</td>
+    <td class="style6">
+      政治面貌：共青团员</td>
+  </tr>
+  <tr>
+    <td class="style6">邮箱：<a href="https://wx.mail.qq.com/">
+      2328959412@qq.com</a></td>
+    <td class="style6">学校：<a href="https://www.xtu.edu.cn/">
+      湘潭大学</a></td>
+  </tr>
+  <tr>
+    <td class="style6">
+      住址：南苑</td>
+    <td class="style6">
+      学历：本科</td>
+  </tr>
+</table>
+<h2 style="color: #000000; background-color: #CCCC00">所学专业</h2>
+<p class="style5">
+  公共管理学院&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  信息管理与信息系统</p>
+<h2 style="color: #000000; background-color: #CCCC00">主修课程</h2>
+<p class="style5">
+  计算机网络原理、运筹学、高等数学、数据结构、C语言、java程序设计、数据库等。</p>
+<h2 style="background-color: #CCCC00">学过的语言</h2>
+<p class="style5">
+  C语言，python，HTML</p>
+<h2 style="background-color: #CCCC00">目标期望</h2>
+<p class="style5">
+  希望能提升自己的编程能力</p>
+<h2 style="background-color: #CCCC00">自我评价</h2>
+<p class="style5">
+  还行</p>
+</body>
+</html>
