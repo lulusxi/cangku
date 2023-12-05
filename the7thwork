@@ -1,0 +1,43 @@
+<?php
+class friend {
+    /*成员变量*/
+  var $sex;
+  var $age;
+  /*成员函数*/
+ function setsex($par){
+     $this->sex = $par;
+  }
+
+  function getsex(){
+     echo $this->sex.PHP_EOL;
+  }
+  function setage($par){
+     $this->age=$par;
+  }
+  function getage(){
+     echo $this->age.PHP_EOL;
+  }
+}
+
+$friend_first=new friend;
+$friend_second=new friend;
+$friend_third=new friend;
+
+//调用成员函数，设置标题和URL
+$friend_first->setsex("女");
+$friend_second->setsex("男");
+$friend_third->setsex("女");
+
+$friend_first->setage('19');
+$friend_second->setage('18');
+$friend_third->setage('20');
+
+//调用成员函数，获取标题和URL
+$friend_first->getsex();
+$friend_second->getsex();
+$friend_third->getsex();
+
+$friend_first->getage();
+$friend_second->getage();
+$friend_third->getage();
+?>
